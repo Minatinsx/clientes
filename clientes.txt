@@ -46,7 +46,7 @@ minatoreplay-07d-B1W9-J2N3@14-04-2026
 minatoreplay-07d-M7L6-V4X1@14-04-2026
 
 KEYS DE 3 DIAS
-minatoreplay-03d-B7X1-K9L4@10-04-2026
+minatoreplay-03d-B7X1-K9L4@15-04-2026
 minatoreplay-03d-V2N8-M5P3@10-04-2026
 minatoreplay-03d-Z9Q6-W1H7@10-04-2026
 minatoreplay-03d-R4T0-X8J2@10-04-2026
@@ -109,7 +109,7 @@ minatoreplay-01d-K8M2-X7H6@12-04-2026
 minatoreplay-01d-V4C5-W9T1@12-04-2026
 minatoreplay-01d-U3F7-Z2Y8@13-04-2026
 minatoreplay-01d-N5L1-J0P4@15-04-2026
-minatoreplay-01d-G9K6-D2S3@13-04-2026
-minatoreplay-01d-R4V7-B8X1@13-04-2026
-minatoreplay-01d-M2N5-H3W9@14-04-2026
+minatoreplay-01d-G9K6-D2S3@30-04-2026
+minatoreplay-01d-R4V7-B8X1@30-04-2026
+minatoreplay-01d-M2N5-H3W9@30-04-2026
 minatoreplay-01d-T6Z8-L1F0@30-04-2026
