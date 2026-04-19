@@ -94,8 +94,8 @@ minatoreplay-01d-U1X8-Z7N2@21-04-2026
 minatoreplay-01d-C5B9-Q4M1@21-04-2026
 minatoreplay-01d-A2S7-R6H0@20-04-2026
 minatoreplay-01d-D8V3-K9P2@21-04-2026
-minatoreplay-01d-F4G1-L0S7@30-04-2026
-minatoreplay-01d-H7M5-W2X9@30-04-2026
+minatoreplay-01d-F4G1-L0S7@21-04-2026
+minatoreplay-01d-H7M5-W2X9@21-04-2026
 minatoreplay-01d-Z1N6-V4T8@30-04-2026
 minatoreplay-01d-K3L9-P5G0@30-04-2026
 minatoreplay-01d-S2D8-B7Q4@30-04-2026
