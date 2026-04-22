@@ -3,6 +3,49 @@ minatoreplay-00d-AAAA-AAAA@31-12-2050 23:59:59
 minatoreplay-07d-K8J2-L9P1@31-12-2050 23:59:59
 minatoreplay-30d-H9X2-R5L1@23-04-2026 23:59:59
 
+KEY 30 DIAS
+
+minatoreplay-30d-J8F2-L9P1@21-06-2026 23:59:59
+minatoreplay-30d-X7B4-M2N8@21-06-2026 23:59:59
+minatoreplay-30d-Q5R9-K1V3@21-06-2026 23:59:59
+minatoreplay-30d-C6D2-H7G5@21-06-2026 23:59:59
+minatoreplay-30d-A9W1-Z4X8@21-06-2026 23:59:59
+minatoreplay-30d-P3L0-V5N2@21-06-2026 23:59:59
+minatoreplay-30d-Y2T7-B8M4@21-06-2026 23:59:59
+minatoreplay-30d-S1G9-F6H3@21-06-2026 23:59:59
+minatoreplay-30d-K4J5-R2Q8@21-06-2026 23:59:59
+minatoreplay-30d-E0X7-N1V9@21-06-2026 23:59:59
+minatoreplay-30d-M3B6-Z2W4@21-06-2026 23:59:59
+minatoreplay-30d-U9P2-L8K5@21-06-2026 23:59:59
+minatoreplay-30d-T4H1-R7G3@21-06-2026 23:59:59
+minatoreplay-30d-D5S8-F2J6@21-06-2026 23:59:59
+minatoreplay-30d-G1M9-B3C7@21-06-2026 23:59:59
+minatoreplay-30d-V6N4-X0Z8@21-06-2026 23:59:59
+minatoreplay-30d-H2Y5-Q1R3@21-06-2026 23:59:59
+minatoreplay-30d-L8W7-K4V9@21-06-2026 23:59:59
+minatoreplay-30d-P2F0-S6D4@21-06-2026 23:59:59
+minatoreplay-30d-N5B3-J1M7@21-06-2026 23:59:59
+minatoreplay-30d-Z9X2-T8V1@21-06-2026 23:59:59
+minatoreplay-30d-R4G6-H2K5@21-06-2026 23:59:59
+minatoreplay-30d-M1L8-C3D7@21-06-2026 23:59:59
+minatoreplay-30d-Q0P4-W9S2@21-06-2026 23:59:59
+minatoreplay-30d-A7F1-V5B8@21-06-2026 23:59:59
+minatoreplay-30d-K2N3-X6J9@21-06-2026 23:59:59
+minatoreplay-30d-S4H0-Y1G2@21-06-2026 23:59:59
+minatoreplay-30d-D8R5-T7M3@21-06-2026 23:59:59
+minatoreplay-30d-E2C9-L4W6@21-06-2026 23:59:59
+minatoreplay-30d-U3F7-B1N5@21-06-2026 23:59:59
+minatoreplay-30d-V9H4-Z2X1@21-06-2026 23:59:59
+minatoreplay-30d-P6G0-M8K3@21-06-2026 23:59:59
+minatoreplay-30d-J1S5-R9Q4@21-06-2026 23:59:59
+minatoreplay-30d-T3L2-F7W8@21-06-2026 23:59:59
+minatoreplay-30d-O5B1-V6N9@21-06-2026 23:59:59
+minatoreplay-30d-X4C8-H1G2@21-06-2026 23:59:59
+minatoreplay-30d-G9Y3-D2F0@21-06-2026 23:59:59
+minatoreplay-30d-K7M6-W5Z1@21-06-2026 23:59:59
+minatoreplay-30d-R2N8-B4V0@21-06-2026 23:59:59
+minatoreplay-30d-L1P7-S3J9@21-06-2026 23:59:59
+
 
 KEYS DE 7 DIAS
 minatoreplay-07d-X5S7-H1K9@14-04-2026 23:59:59
