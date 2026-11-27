@@ -43,7 +43,7 @@ KEYS DE 7 DIAS
 minatoreplay-07d-G5H0-Y6W3@30-09-2026 23:59:59
 minatoreplay-07d-Z1M4-K9L7@17-11-2026 00:59:59
 minatoreplay-07d-R3V8-0@17-11-2026 00:59:59
-minatoreplay-07d-H6A5-X1N9@30-09-2026 23:59:59
+minatoreplay-07d-H6A5-X1N9@04-12-2026 23:59:59
 minatoreplay-07d-S9Q4-B0C2@30-09-2026 23:59:59
 minatoreplay-07d-J3K1-W7R5@30-09-2026 23:59:59
 minatoreplay-07d-P8M2-L5V6@30-09-2026 23:59:59
@@ -156,17 +156,9 @@ KEYS DE 1 DIA
 
 
 
-
-minatoreplay-01d-A7K2-M9P4@19-11-2026 22:50:59
-minatoreplay-01d-B3L8-N5Q1@22-11-2026 10:50:59
-minatoreplay-01d-C6R4-T2W9@22-11-2026 18:50:59
-minatoreplay-01d-D9F1-H7J3@23-11-2026 20:50:59
-minatoreplay-01d-E2G5-K8M6@23-11-2026 23:50:59
-minatoreplay-01d-F4N7-P3X2@26-11-2026 13:50:59
-minatoreplay-01d-G8Q1-R6V5@30-11-2026 23:50:59
-minatoreplay-01d-H5J9-W2L4@30-11-2026 23:50:59
-minatoreplay-01d-J3M6-X8C1@30-11-2026 23:50:59
-minatoreplay-01d-K7P2-Y4D9@30-11-2026 23:50:59
+minatoreplay-01d-H5J9-W2L4@28-11-2026 12:50:59
+minatoreplay-01d-J3M6-X8C1@28-11-2026 18:50:59
+minatoreplay-01d-K7P2-Y4D9@28-11-2026 18:50:59
 minatoreplay-01d-L4T8-Z1F5@30-11-2026 23:50:59
 minatoreplay-01d-M9W3-A6G2@30-11-2026 23:50:59
 minatoreplay-01d-N2X5-B8H7@30-11-2026 23:50:59
